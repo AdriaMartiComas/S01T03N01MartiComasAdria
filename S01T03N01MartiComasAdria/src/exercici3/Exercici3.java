@@ -19,6 +19,8 @@ public class Exercici3 {
 		int n, punts = 0;
 		String capital, pais, resultat;
 		
+		//PROVES COMIT
+		
 		importTxt(paisosCapitalsHashMap, paisos);
 		
 		System.out.println("Introdueix el teu nom: ");
