@@ -17,7 +17,7 @@ public class Exercici3 {
 		HashMap<String, String> paisosCapitalsHashMap = new HashMap<String, String>();
 		
 		int n, punts = 0;
-		String capital, pais, resultat;
+		String capital, pais, resultat; 
 		
 		//PROVES COMIT
 		
